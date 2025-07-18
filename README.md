@@ -25,3 +25,14 @@ This is because the observed nanofossils belong to two genera: Discoaster and Co
 ### XPL image preview
 !["XPL"](https://github.com/Andishafira/Detection-and-Classification-of-Nannofossil-Genera-in-Microscopic-Nannofossil-Images/blob/main/xpl%20sample%20image.jpg)
 
+## Project Flow
+1. Collect the dataset
+2. Dataset preparation (balancing data and image enhancement)
+3. Training data with YOLO 11 with many scenarios
+4. Model testing
+5. Added an algorithm to calculate the occurrence of objects
+6. Report the result
+7. Developing methods (still underway)
+
+## File Description
+1. 
